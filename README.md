@@ -1,5 +1,6 @@
 # HashCompare
 HashCompare compares generated hashes to an unknown hash. During multiple web app pentests I've come across a need for a fast way to compare a unkown hash to possible known variables I've set.
+
 _Example:_ On a pentest you have a cookie set upon login that looks like a hash, but you want to know if it might be your hashed password or username. This tool may come in handy to check that.
 
 **Currently Supported Hash Types**
