@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import hashlib
 userpt = raw_input("Enter your plaintext: ")
 userhash = raw_input("Enter the hash: ")
